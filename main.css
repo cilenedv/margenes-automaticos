@@ -1,0 +1,16 @@
+ div {
+  border: 10px solid #FFFF00;
+  width: 300px;
+  height: 250px;
+  padding: 30px;
+}
+
+
+
+.uno {
+  text-align: center;
+}
+
+.dos {
+ margin:0 auto;
+}
